@@ -1,0 +1,46 @@
+/* LOGIN */
+
+.loginFlex {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* margin-top: 120px; */
+}
+
+.loginSide {
+    border-left: 2px solid teal;
+    padding: 22px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), url("../src/images/logobg2.jpg");
+    background-position: center;
+    height: 220px;
+    background-size: cover;
+    border-radius: 12px;
+    margin-top: 50px;
+    height: 80vh;
+    width: 100%;
+    padding-top: 120px;
+    padding-left: 50px;
+}
+
+.loginText {
+    color: #fff;
+    border-radius: 8px;
+    margin-bottom: 22px;
+}
+
+.forLog input {
+    border-bottom: 3px #039c94;
+    border-style: solid;
+    width: 520px;
+    padding: 12px;
+    margin-bottom: 52px;
+}
+
+.forLog input:focus {
+    outline: none;
+}
+
+.linkCol {
+    color: rgb(4, 50, 166);
+    font-style: italic;
+}

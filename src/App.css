@@ -1,6 +1,6 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +36,92 @@
     transform: rotate(360deg);
   }
 }
+
+
+.myNavbar{
+  background: #f1f1f1;
+  padding: 18px;
+  color: #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: sans-serif;
+  letter-spacing: 1.3px;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.theLinks{
+  /* margin: 12px; */
+  display: flex;
+  width: 25%;
+  justify-content: space-between;
+}
+
+.theAuths{
+  /* background: #039c94; */
+  display: flex;
+  width: 14%;
+  justify-content: space-between;
+  padding: 15px;
+  color: #039c94;
+  /* border-bottom: 1px solid #039c94; */
+  font-weight: 800;
+  /* margin-left: 3px; */
+  /* background: black; */
+}
+.authLink{
+  border-bottom: 1px solid #039c94;
+  padding:5px 12px;
+}
+
+/* HOMEPAGE */
+
+/* .ourHome{
+  position: relative;
+  top: 0;
+} */
+
+.vid{
+  width: 100%;
+  height: 90vh;
+  object-fit: cover;
+  /* background: #020a1a; */
+  position: absolute;
+  top: 0;
+  z-index: -1;
+}
+
+
+.homeForm{
+  background: #eeeeee;
+  display: flex;
+  border-radius: 5px;
+  padding: 28px;
+  width: 520px;
+}
+
+.bigE{
+  opacity: .9;
+}
+
+.inner{
+  margin: 5px;
+}
+
+.inner input{
+  border: none;
+  border-bottom: 2px solid #039c94;
+  border-radius: 0;
+}
+
+.inner input:focus{
+  outline: none;
+  /* border: none; */
+}
+
+
+/* SIGNUP PROPERTIES */
+/* .signBody{
+  background: teal;
+} */

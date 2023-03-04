@@ -1,0 +1,56 @@
+-----**** PRD FOR MY REAL ESTATE WEBSITE ****----
+---*** A REAL ESTATE WEBSITE BUILT WITH REACTJS ***---
+-- Defining the purpose of the project
+-- Breaking the purpose down into Features
+-- Set the goal for the release criteria
+
+--------********** DEFINING THE PURPOSE OF THE PROJECT *************-------------
+The project is a Real Estate website where you can buy properties or market your properties for sale or rent.
+Helping people that are looking for accomadation to get their desired accomadation without the streess of 
+going around to look for an accomodation.
+With this platform you can get a live location of the area you're going to so as to know what you're paying for.
+You can also market you available properties in other to save the cost.
+
+--------********** BREAKING THE PURPOSE DOWN INTO FEATURES *************-------------
+A full functional real estate website with mobile responsive
+
+Building the mobile responsiveness with CHAKRA Ui.
+
+Visit the site and see images of items and the name of the property owner, image of the proprty owner and price,
+Click on the Property and you will see available informations about the property that includes; images, location
+using google map, a video of the house,
+
+Auth
+-- Login
+During login as a user the user should just provide e-mail and password only.
+
+-- Signup (For users)
+signing up for user they only provide
+    #Full name
+    #Username
+    #Email Address
+    #password
+    #Retype password
+
+-- Signup (For Agents)
+signing up for Agents they only provide
+    #Account Manager Full name
+    #Account manager phone number
+    #Email Address
+    #Retype Email Address
+    #password
+    #Retype password
+
+BUSINESS informations 
+Bank Account
+
+
+---***** FOR LEASE PAGE ****-----
+---***** FOR RENT PAGE ****-----
+---***** BUY PAGE ****-----
+
+-----------************* THE HOMPAGE WILL BE FEEDS OF DIFFERENT HOUSES FROM DIFFERENT CATEGORIES *******-----
+.......  feeds of houses
+.......  it changes the feeds
+
+IN TOTAL THE SITE WILL HAVE SEVEN (7) PAGES
